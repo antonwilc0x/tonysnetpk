@@ -1,0 +1,27 @@
+{
+    "name": "tonysnetpk",
+    "displayName": "Tony's .NET Pack",
+    "description": "My personal .NET Core VSCode extension pack",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.37.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "ms-vscode.csharp",
+        "jchannon.csharpextensions",
+        "fudge.auto-using",
+        "craigthomas.supersharp",
+        "bonelol.typesharp",
+        "k--kato.docomment",
+        "georgewfraser.fsharp-language-server",
+        "pflannery.vscode-versionlens",
+        "formulahendry.dotnet-test-explorer",
+        "tintoy.msbuild-project-tools",
+        "editorconfig.editorconfig",
+        "jmrog.vscode-nuget-package-manager",
+        "ms-vsliveshare.vsliveshare"
+    ]
+}
