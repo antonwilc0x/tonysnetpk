@@ -24,6 +24,7 @@
         "tintoy.msbuild-project-tools",
         "editorconfig.editorconfig",
         "jmrog.vscode-nuget-package-manager",
-        "ms-vsliveshare.vsliveshare"
+        "ms-vsliveshare.vsliveshare",
+        "aaron-bond.better-comments",
     ]
 }
