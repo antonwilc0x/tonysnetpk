@@ -2,6 +2,7 @@
     "name": "tonysnetpk",
     "displayName": "Tony's .NET Pack",
     "description": "My personal .NET Core VSCode extension pack",
+    "publisher": "tonytins",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.37.0"
