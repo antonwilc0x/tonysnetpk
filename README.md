@@ -1,6 +1,6 @@
 # README
 
-My personal .NET Core VSCode extension pack.
+My personal VSCode extension pack for .NET Core.
 
 ## In this pack
 
