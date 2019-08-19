@@ -25,6 +25,7 @@
         "editorconfig.editorconfig",
         "jmrog.vscode-nuget-package-manager",
         "ms-vsliveshare.vsliveshare",
-        "aaron-bond.better-comments"
+        "aaron-bond.better-comments",
+        "matijarmk.dotnet-core-commands"
     ]
 }
