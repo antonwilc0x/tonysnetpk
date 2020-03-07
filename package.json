@@ -1,31 +1,32 @@
 {
-    "name": "tonysnetpk",
-    "displayName": "Tony's .NET Pack",
-    "description": "My personal .NET Core VSCode extension pack",
+    "name": "netstdiopk",
+    "displayName": ".NET Core Studio Pack",
+    "description": "A .NET Core extension pack focused on ease of use.",
     "publisher": "tonytins",
-    "repository": { "url": "https://github.com/antonwilc0x/tonysnetpk" },
-    "version": "0.0.1",
+    "repository": { "url": "https://github.com/tonytins/netstdiopk" },
+    "version": "0.2.0",
     "engines": {
-        "vscode": "^1.37.0"
+        "vscode": "^1.40.0"
     },
     "categories": [
         "Extension Packs"
     ],
     "extensionPack": [ 
-        "ms-vscode.csharp",
-        "jchannon.csharpextensions",
-        "fudge.auto-using",
-        "craigthomas.supersharp",
-        "bonelol.typesharp",
-        "k--kato.docomment",
-        "georgewfraser.fsharp-language-server",
-        "pflannery.vscode-versionlens",
+        "ms-dotnettools.csharp",
+        "adrianwilczynski.asp-net-core-switcher",
         "formulahendry.dotnet-test-explorer",
-        "tintoy.msbuild-project-tools",
+        "kevinkyang.auto-comment-blocks",
+        "wayou.vscode-todo-highlight",
+        "kishoreithadi.dotnet-core-essentials",
+        "adrianwilczynski.namespace",
+        "ScottSauber.blazorsnippets",
         "editorconfig.editorconfig",
-        "jmrog.vscode-nuget-package-manager",
-        "ms-vsliveshare.vsliveshare",
-        "aaron-bond.better-comments",
-        "matijarmk.dotnet-core-commands"
+        "mfery.dotnetexplorer",
+        "georgewfraser.fsharp-language-server",
+        "Ionide.Ionide-fsharp",
+        "MS-vsliveshare.vsliveshare",
+        "bonelol.typesharp",
+        "ms-vscode.vscode-typescript-tslint-plugin",
+        "tintoy.msbuild-project-tools"
     ]
 }

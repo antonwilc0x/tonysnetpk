@@ -1,4 +1,6 @@
 .vscode/**
 .vscode-test/**
+workflows/**
 .gitignore
+.gitkeep
 vsc-extension-quickstart.md
