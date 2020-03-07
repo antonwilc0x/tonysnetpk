@@ -22,7 +22,7 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
     - run: npm install -g vsce
-    - run: vsce package
+    - run: vsce package -o publish
     - uses: actions/upload-artifact@v1
       with:
         name: netstdiopk
