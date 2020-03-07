@@ -23,7 +23,6 @@
         "editorconfig.editorconfig",
         "mfery.dotnetexplorer",
         "georgewfraser.fsharp-language-server",
-        "Ionide.Ionide-fsharp",
         "MS-vsliveshare.vsliveshare",
         "bonelol.typesharp",
         "ms-vscode.vscode-typescript-tslint-plugin",
