@@ -18,8 +18,10 @@ A .NET Core extension pack focused on ease of use.
 - [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
 - [TSLint](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin)
 - [MSBuild project tools](https://marketplace.visualstudio.com/items?itemName=tintoy.msbuild-project-tools)
+- [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
+- [Ignore files](https://marketplace.visualstudio.com/items?itemName=ldez.ignore-files)
 
-## Install extension pack
+## Install pack
 
 ### VSIX
 

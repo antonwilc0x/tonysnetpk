@@ -3,4 +3,5 @@
 .github/**
 .gitignore
 .gitkeep
-vsc-extension-quickstart.md
+*.md
+*.db
