@@ -1,32 +1,36 @@
 {
-    "name": "netstdiopk",
-    "displayName": ".NET Core Studio Pack",
-    "description": "A .NET Core extension pack focused on ease of use.",
-    "publisher": "tonytins",
-    "repository": { "url": "https://github.com/tonytins/netstdiopk" },
-    "version": "0.2.1",
-    "engines": {
-        "vscode": "^1.40.0"
-    },
-    "categories": [
-        "Extension Packs"
-    ],
-    "extensionPack": [ 
-        "ms-dotnettools.csharp",
-        "adrianwilczynski.asp-net-core-switcher",
-        "formulahendry.dotnet-test-explorer",
-        "kevinkyang.auto-comment-blocks",
-        "wayou.vscode-todo-highlight",
-        "kishoreithadi.dotnet-core-essentials",
-        "adrianwilczynski.namespace",
-        "ScottSauber.blazorsnippets",
-        "editorconfig.editorconfig",
-        "mfery.dotnetexplorer",
-        "georgewfraser.fsharp-language-server",
-        "MS-vsliveshare.vsliveshare",
-        "bonelol.typesharp",
-        "ms-vscode.vscode-typescript-tslint-plugin",
-        "tintoy.msbuild-project-tools",
-        "ms-azuretools.vscode-docker"
-    ]
+  "name": "netstdiopk",
+  "displayName": ".NET Core Studio Pack",
+  "description": "A .NET Core extension pack focused on ease of use.",
+  "publisher": "tonytins",
+  "repository": {
+    "url": "https://github.com/tonytins/netstdiopk"
+  },
+  "version": "0.2.1",
+  "engines": {
+    "vscode": "^1.40.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "ms-dotnettools.csharp",
+    "adrianwilczynski.asp-net-core-switcher",
+    "formulahendry.dotnet-test-explorer",
+    "kevinkyang.auto-comment-blocks",
+    "wayou.vscode-todo-highlight",
+    "kishoreithadi.dotnet-core-essentials",
+    "adrianwilczynski.namespace",
+    "ScottSauber.blazorsnippets",
+    "editorconfig.editorconfig",
+    "mfery.dotnetexplorer",
+    "georgewfraser.fsharp-language-server",
+    "MS-vsliveshare.vsliveshare",
+    "bonelol.typesharp",
+    "ms-vscode.vscode-typescript-tslint-plugin",
+    "tintoy.msbuild-project-tools",
+    "ms-azuretools.vscode-docker",
+    "k--kato.docomment",
+    "esbenp.prettier-vscode"
+  ]
 }

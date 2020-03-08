@@ -4,6 +4,11 @@ All notable changes to this extension pack will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 0.2.2
+
+- Brought back C# XML Documentation Comments
+- Added Prettier (Code formatter)
+
 ## 0.2.1
 
 - Added Docker and Ignore files

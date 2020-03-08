@@ -20,11 +20,13 @@ A .NET Core extension pack focused on ease of use.
 - [MSBuild project tools](https://marketplace.visualstudio.com/items?itemName=tintoy.msbuild-project-tools)
 - [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
 - [Ignore files](https://marketplace.visualstudio.com/items?itemName=ldez.ignore-files)
+- [C# XML Documentation Comments](https://marketplace.visualstudio.com/items?itemName=k--kato.docomment)
+- [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
 ## Install pack
 
 ### VSIX
 
-- Install Visual Studio Code Extension Manager via Node. ``npm install -g vsce``
-- Package contents with ``vsce package``
+- Install Visual Studio Code Extension Manager via Node. `npm install -g vsce`
+- Package contents with `vsce package`
 - Go to Extension, go to the hanburger menu, and click "Install from VSIX"
