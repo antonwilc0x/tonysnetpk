@@ -2,7 +2,9 @@
 
 All notable changes to this extension pack will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## 0.2.3
+
+- Added VZ DotNet File Templates
 
 ## 0.2.2
 

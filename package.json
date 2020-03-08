@@ -31,6 +31,7 @@
     "tintoy.msbuild-project-tools",
     "ms-azuretools.vscode-docker",
     "k--kato.docomment",
-    "esbenp.prettier-vscode"
+    "esbenp.prettier-vscode",
+    "visualzoran.vz-dotnet-file-templates"
   ]
 }

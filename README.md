@@ -22,6 +22,7 @@ A .NET Core extension pack focused on ease of use.
 - [Ignore files](https://marketplace.visualstudio.com/items?itemName=ldez.ignore-files)
 - [C# XML Documentation Comments](https://marketplace.visualstudio.com/items?itemName=k--kato.docomment)
 - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [VZ DotNet File Templates](https://marketplace.visualstudio.com/items?itemName=VisualZoran.vz-dotnet-file-templates)
 
 ## Install pack
 
