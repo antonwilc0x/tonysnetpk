@@ -2,6 +2,10 @@
 
 All notable changes to this extension pack will be documented in this file.
 
+## 0.2.4
+
+- Added Super Sharp and C# Snippets
+
 ## 0.2.3
 
 - Added VZ DotNet File Templates

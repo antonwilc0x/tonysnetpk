@@ -23,6 +23,8 @@ A .NET Core extension pack focused on ease of use.
 - [C# XML Documentation Comments](https://marketplace.visualstudio.com/items?itemName=k--kato.docomment)
 - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - [VZ DotNet File Templates](https://marketplace.visualstudio.com/items?itemName=VisualZoran.vz-dotnet-file-templates)
+- [C# Snippets](https://marketplace.visualstudio.com/items?itemName=jorgeserrano.vscode-csharp-snippets)
+- [Super Sharp](https://marketplace.visualstudio.com/items?itemName=craigthomas.supersharp)
 
 ## Install pack
 

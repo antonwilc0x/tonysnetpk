@@ -32,6 +32,8 @@
     "ms-azuretools.vscode-docker",
     "k--kato.docomment",
     "esbenp.prettier-vscode",
-    "visualzoran.vz-dotnet-file-templates"
+    "visualzoran.vz-dotnet-file-templates",
+    "jorgeserrano.vscode-csharp-snippets",
+    "craigthomas.supersharp"
   ]
 }
