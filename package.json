@@ -1,7 +1,7 @@
 {
   "name": "netstdiopk",
-  "displayName": ".NET Core Studio Pack",
-  "description": "A .NET Core extension pack focused on ease of use.",
+  "displayName": ".NET Studio Pack",
+  "description": "A .NET extension pack focused on ease of use.",
   "publisher": "tonytins",
   "repository": {
     "url": "https://github.com/tonytins/netstdiopk"
