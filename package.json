@@ -6,7 +6,7 @@
   "repository": {
     "url": "https://github.com/tonytins/netstdiopk"
   },
-  "version": "0.2.1",
+  "version": "0.2.10",
   "engines": {
     "vscode": "^1.40.0"
   },
@@ -33,6 +33,10 @@
     "k--kato.docomment",
     "esbenp.prettier-vscode",
     "visualzoran.vz-dotnet-file-templates",
-    "craigthomas.supersharp"
+    "craigthomas.supersharp",
+    "gordonwalkedby.vbnet",
+    "formulahendry.dotnet",
+    "adrianwilczynski.add-reference",
+    "patcx.vscode-nuget-gallery"
   ]
 }

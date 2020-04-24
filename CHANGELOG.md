@@ -2,6 +2,14 @@
 
 All notable changes to this extension pack will be documented in this file.
 
+## 0.2.10
+
+- Added the following: 
+  - VB.NET Grammars and Snippets
+  - .NET Core Tools
+  - .NET Core Add Reference
+  - Nuget Gallery
+
 ## 0.2.4
 
 - Added Super Sharp and C# Snippets

@@ -1,6 +1,8 @@
-# .NET Core Studio Pack
+# .NET Studio Pack
 
-A .NET Core extension pack focused on ease of use.
+![](logo.png)
+
+A .NET extension pack focused on ease of use.
 
 ## In this pack
 
@@ -24,6 +26,10 @@ A .NET Core extension pack focused on ease of use.
 - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - [VZ DotNet File Templates](https://marketplace.visualstudio.com/items?itemName=VisualZoran.vz-dotnet-file-templates)
 - [Super Sharp](https://marketplace.visualstudio.com/items?itemName=craigthomas.supersharp)
+- [VB.NET Grammars and Snippets](https://marketplace.visualstudio.com/items?itemName=gordonwalkedby.vbnet)
+- [.NET Core Tools](https://marketplace.visualstudio.com/items?itemName=formulahendry.dotnet)
+- [.NET Core Add Reference](https://marketplace.visualstudio.com/items?itemName=adrianwilczynski.add-reference)
+- [Nuget Gallery](https://marketplace.visualstudio.com/items?itemName=patcx.vscode-nuget-gallery)
 
 ## Install pack
 
