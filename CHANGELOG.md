@@ -2,9 +2,14 @@
 
 All notable changes to this extension pack will be documented in this file.
 
+## 0.2.11
+
+- Added a fork of C# Extensions
+- Added ASP.NET Core Scaffolding
+
 ## 0.2.10
 
-- Added the following: 
+- Added the following:
   - VB.NET Grammars and Snippets
   - .NET Core Tools
   - .NET Core Add Reference

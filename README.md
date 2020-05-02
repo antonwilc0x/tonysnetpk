@@ -2,7 +2,7 @@
 
 ![](logo.png)
 
-A .NET extension pack focused on ease of use.
+A studio-like .NET extension pack focused on ease of use.
 
 ## In this pack
 
@@ -30,6 +30,8 @@ A .NET extension pack focused on ease of use.
 - [.NET Core Tools](https://marketplace.visualstudio.com/items?itemName=formulahendry.dotnet)
 - [.NET Core Add Reference](https://marketplace.visualstudio.com/items?itemName=adrianwilczynski.add-reference)
 - [Nuget Gallery](https://marketplace.visualstudio.com/items?itemName=patcx.vscode-nuget-gallery)
+- [C# Extensions](https://marketplace.visualstudio.com/items?itemName=kreativ-software.csharpextensions)
+- [ASP.NET Core Scaffolding](https://marketplace.visualstudio.com/items?itemName=firefox.scaffold)
 
 ## Install pack
 
@@ -38,3 +40,11 @@ A .NET extension pack focused on ease of use.
 - Install Visual Studio Code Extension Manager via Node. `npm install -g vsce`
 - Package contents with `vsce package`
 - Go to Extension, go to the hanburger menu, and click "Install from VSIX"
+
+### Daily builds
+
+Pre-built packs can be found in the [Actions](https://github.com/tonytins/netstdiopk/actions) tab for each new commit.
+
+### Releases
+
+.NET Studio Pack is currently not available in the marketplace since it's still under active development.

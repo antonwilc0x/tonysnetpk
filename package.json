@@ -3,10 +3,11 @@
   "displayName": ".NET Studio Pack",
   "description": "A .NET extension pack focused on ease of use.",
   "publisher": "tonytins",
+  "license": "Unlicense",
   "repository": {
     "url": "https://github.com/tonytins/netstdiopk"
   },
-  "version": "0.2.10",
+  "version": "0.2.11",
   "engines": {
     "vscode": "^1.40.0"
   },
@@ -37,6 +38,8 @@
     "gordonwalkedby.vbnet",
     "formulahendry.dotnet",
     "adrianwilczynski.add-reference",
-    "patcx.vscode-nuget-gallery"
+    "patcx.vscode-nuget-gallery",
+    "kreativ-software.csharpextensions",
+    "firefox.scaffold"
   ]
 }
